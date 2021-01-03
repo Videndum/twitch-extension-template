@@ -1,0 +1,6 @@
+.expo/
+.expo-shared/
+.storybook/
+dist/
+lib/
+node_modules/

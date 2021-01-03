@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "target": "ESNext",
+    "lib": [
+      "esnext",
+    ],
+    "outDir": "electron/main",
+    "moduleResolution": "node",
+    "strict": true,
+    "skipLibCheck": true,
+  },
+  "include": [
+    "electron/src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
